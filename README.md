@@ -7,7 +7,7 @@ Some questions you’ve probably already thought of, but ones that I would consi
 1. Of the things you’ve built with JavaScript frameworks/libraries, which is your favorite? Tell me about that project and what made it so memorable.
 	1. Here you’re looking for words like “React”, “Angular”, “Vue”, or “Svelte”. If you hear something about jQuery as the favorite, that’s probably a red flag. Definitely a yellow flag.
 	2. I’d be watching for _how_ they describe their work, as much as _what_ they built.  As is probably already known: you need someone who can break down technical jargon.
-	3. The size of the app matters. The favorite app might be small, so if it is, make sure to ask this next question.
+	3. The size of the app matters. The favorite app might be small, so if it is, make sure to ask question 1 under [Architecture](#architecture)
 2. What are your favorite and least favorite parts of implementing a designer’s ideas?
 	1. This is definitely a soft skills question, so I’m not going to suggest much. But it’s a good question to ask anyone expected to do front-end development.
 	2. If the person likes CSS (the language used for styling the web), and they can demonstrate examples of complex CSS work, that’s a big plus… but only if they’re proficient elsewhere too. The dev who loves CSS and backend is a 🦄.
