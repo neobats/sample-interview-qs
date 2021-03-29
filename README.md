@@ -1,6 +1,7 @@
 # SBI Technical Interview Questions
 ## General
 Some questions you’ve probably already thought of, but ones that I would consider asking anyways:
+* nothing here (yet?)
 
 ## Front-end
 1. Of the things you’ve built with JavaScript frameworks/libraries, which is your favorite? Tell me about that project and what made it so memorable.
